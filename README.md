@@ -1,36 +1,24 @@
-<div align="center" width="50">
+<div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
-
-</div>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/>
 
 ---
 
-## 👋 Hello, I'm Ziad Hegagy
+#  Ziad Hegagy
 
 🎓 **Computer Science Student – Faculty of Computers & Information**  
 💻 **C++ Developer | OOP Enthusiast**  
 🚀 Aspiring **Backend Developer**
 
-I’m building a **strong foundation** in programming using **C++**, focusing on:
-- Object-Oriented Programming (OOP)
-- Problem Solving
-- Clean Code & Logic Thinking  
 
-My goal is to move step-by-step toward **Backend Development** with solid fundamentals.
+
 
 ---
 
-## 🧠 What I'm Currently Learning
-- Advanced **OOP in C++**
-- **Data Structures & Algorithms**
-- Problem Solving (Competitive Programming mindset)
-- Basics of **Databases & Backend Concepts**
 
----
 
-## 🚀 Tools & Technologies I Use
+## 🚀 Technologies & Tools
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
@@ -41,24 +29,22 @@ My goal is to move step-by-step toward **Backend Development** with solid fundam
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
 
 ---
+## 🧠 About Me
 
-## 🧩 Programming Mindset (C++ Style 😄)
+I’m a **Computer Science student** with a strong foundation in **C++**.  
+Currently focused on **Object-Oriented Programming**, **Problem Solving**,  
+and building the right mindset to become a **Backend Developer**.
 
-```cpp
-class Ziad {
-public:
-    string role = "Computer Science Student";
-    string mainLanguage = "C++";
-    vector<string> skills = {
-        "OOP",
-        "Problem Solving",
-        "Data Structures",
-        "Clean Code"
-    };
-    string goal = "Backend Developer";
-};
+I believe in **strong fundamentals before frameworks**.
 
-<!--img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/-->
+---
 
-</div>
+### 🌐 Connect with me
+
+<a href="https://engziadhegagy.netlify.app/">
+  <img src="https://img.shields.io/badge/Website-000000?style=flat&logo=google-chrome&logoColor=white"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/ziad-hegagy">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
 
